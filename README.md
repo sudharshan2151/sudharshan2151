@@ -29,19 +29,19 @@ Here are some ideas to get you started:
 <br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code.
 
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="git stats"> -->
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="git stats">        <img align="right" width="50%" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" alt="octocat" />
+-->
 
 <br />
 
 ## Fun Fact ⚡:
 
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" alt="octocat" />
 
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 
 • 👯 I’m looking to collaborate on <b>cool project.</b><br/>
 
-• 💬 Ask me about <b>Java Backend Develpment</b>.<br/>
+• 💬 Ask me about <b>Backend Develpment,Algorithms</b>.<br/>
 
 • 📫 Reach me out s.sudharshan2151@gmail.com
 
@@ -60,11 +60,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="">
 
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="">
+
 <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="">
 <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" alt="">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="">
+
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white" alt="">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="">
