@@ -86,8 +86,22 @@ Here are some ideas to get you started:
 
 
 # 📊 GitHub Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudharshan2151&show_icons=true&locale=en" alt="sudharshan2151" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshan2151&" alt="sudharshan2151" />
+<img
+  alt="SudharshanS's Github Stats"
+  src="https://github-readme-stats.vercel.app/api?username=sudharshan2151"
+  height="207px"
+/>
+<img
+  alt="SudharshanS's Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharshan2151"
+  height="207px"
+/>
 
+<img
+  alt="SudharshanS's Top Languages"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshan2151"
+  height="207px"
+/>
+ 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudharshan2151" alt="sudharshan2151" /></a> </p>
