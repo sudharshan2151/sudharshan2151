@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 <br/><br/>I enjoy taking up complex problems and turning them into simple problems. 
 <br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code.
 
+ <img align="right" width="50%" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" alt="octocat" />
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="git stats">        <img align="right" width="50%" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" alt="octocat" />
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="git stats">      
 -->
 
 <br />
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-
+ 
 
 
 
@@ -85,9 +86,8 @@ Here are some ideas to get you started:
 
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudharshan2151&show_icons=true&locale=en" alt="sudharshan2151" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshan2151&" alt="sudharshan2151" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudharshan2151&show_icons=true&locale=en" alt="sudharshan2151" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshan2151&" alt="sudharshan2151" />
 
 ## 🏆 GitHub Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudharshan2151" alt="sudharshan2151" /></a> </p>
