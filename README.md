@@ -1,10 +1,18 @@
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png"  alt="">
 
-### Hi 👋 I'm Sudharshan S 
+# Hi 👋 I'm Sudharshan S 
 
 <!--
 **sudharshan2151/sudharshan2151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey there! I'm Sudharshan S, . Here are a few points to know more about me:
 
+🔧 I specialize in Java Backend Development.
+🧩 I enjoy taking up complex problems and breaking them down into simpler, more manageable components.
+💻 Writing elegant and efficient code is my constant goal.
+⚡ Currently, I'm working on an exciting project, utilizing my skills and knowledge.
+🤝 I'm actively seeking collaboration opportunities on cool and impactful projects.
+💬 Feel free to ask me anything related to Backend Development or Algorithms.
+📫 You can reach out to me at s.sudharshan2151@gmail.com for any inquiries or discussions.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,6 +23,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+• 🔭 I’m currently working on <b>something cool!</b> <br/>
+
+• 👯 I’m looking to collaborate on <b>cool project.</b><br/>
+
+• 💬 Ask me about <b>Backend Develpment,Algorithms</b>.<br/>
+<br/><br/>I enjoy taking up complex problems and turning them into simple problems. 
+<br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code.
+
+• 📫 Reach me out s.sudharshan2151@gmail.com
 ![sudharshan2151's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudharshan2151&show_icons=true&theme=default)
 [![trophy](https://github-profile-trophy.vercel.app/?username=sudharshan2151&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)](https://github.com/sudharshan2151/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sudharshan2151)](https://git.io/streak-stats)
@@ -24,9 +41,7 @@ Here are some ideas to get you started:
 
 <br />
 
-**I am a Java Backend developer from India.**
-<br/><br/>I enjoy taking up complex problems and turning them into simple problems. 
-<br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code.
+## A Java Backend developer from India.
 
  <img align="right" width="50%" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif" alt="octocat" />
 
@@ -38,13 +53,27 @@ Here are some ideas to get you started:
 ## Fun Fact ⚡:
 
 
-• 🔭 I’m currently working on <b>something cool!</b> <br/>
 
-• 👯 I’m looking to collaborate on <b>cool project.</b><br/>
 
-• 💬 Ask me about <b>Backend Develpment,Algorithms</b>.<br/>
+🔧 I specialize in <b>Java Backend Development</b>.
 
-• 📫 Reach me out s.sudharshan2151@gmail.com
+
+🧩 I enjoy taking up complex problems and breaking them down into simpler, more manageable components.
+
+
+💻 Writing elegant and efficient code is my constant goal.
+
+
+⚡ Currently, I'm working on an exciting project, utilizing my skills and knowledge.
+
+
+🤝 I'm actively seeking collaboration opportunities on cool and impactful projects.
+
+
+💬 Feel free to ask me anything related to Backend Development or Algorithms.
+
+
+📫 You can reach out to me at s.sudharshan2151@gmail.com 
 
 <br />
 <br />
@@ -54,7 +83,7 @@ Here are some ideas to get you started:
 
 
 
-## <img height="40" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="git stats"> **SKILLS**
+## <img height="40" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="git stats"> SKILLS :
 
 <div>
 
@@ -76,15 +105,19 @@ Here are some ideas to get you started:
 
 <br/>
 
-## <img height="40" src="https://user-images.githubusercontent.com/74038190/240904074-324065af-8ea3-453a-83a3-66ccba5797fb.gif" alt=""> **CONNECT WITH ME**
+
+
+## <img height="40" src="https://user-images.githubusercontent.com/74038190/240904074-324065af-8ea3-453a-83a3-66ccba5797fb.gif" alt=""> CONNECT WITH ME 
 
 <a  href="https://www.linkedin.com/in/sudharshan-sakthivel-033287223/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
+<br/>
 
 
 
-# 📊 GitHub Stats:
+
+# 📊 GitHub Stats
 <img
   alt="SudharshanS's Github Stats"
   src="https://github-readme-stats.vercel.app/api?username=sudharshan2151"
@@ -101,8 +134,10 @@ Here are some ideas to get you started:
   src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshan2151"
   height="207px"
 />
+
+
  
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=sudharshan2151&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 
