@@ -130,7 +130,7 @@ Here are some ideas to get you started:
 />
 
 <img
-  alt="SudharshanS's Top Languages"
+  alt="SudharshanS's Streaks"
   src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshan2151"
   height="207px"
 />
