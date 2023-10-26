@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 🪄 Checkout my <a href="https://sudharshan2151.github.io/" >portfolio</a>
 
-🎯 About me [Resume](https://github.com/sudharshan2151/sudharshan2151/files/12474744/Sudharshan-S-Resume.4.pdf)
+🎯 About me <a href="https://drive.google.com/file/d/1DaC2SZrqlzl_6UU7_-PmJZOHt50kewNv/view?usp=sharing" >Resume</a>
 
 📫 You can reach out to me at s.sudharshan2151@gmail.com 
 
