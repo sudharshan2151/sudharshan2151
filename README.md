@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 
 ## <img height="40" src="https://user-images.githubusercontent.com/74038190/240904074-324065af-8ea3-453a-83a3-66ccba5797fb.gif" alt=""> CONNECT WITH ME 
 
-<a  href="https://www.linkedin.com/in/sudharshan-sakthivel-033287223/">
+<a  href="https://www.linkedin.com/in/sudharshan2151">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
 <br/>
