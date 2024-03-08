@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 
 
 
-## 🌐 CONNECT WITH ME 
+## 🌍 CONNECT WITH ME 
 
 <a  href="https://www.linkedin.com/in/sudharshan2151">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
